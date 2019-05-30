@@ -14,3 +14,8 @@
   - [x] 我的团长我的团
   - [x] Kubernetes进阶实战
   - [ ] 切尔诺贝利的悲鸣
+  - [ ] 只是为了好玩：linus自传
+  - [ ] 丑陋的中国人
+  - [ ] Kubernetes权威指南：从Docker到Kubernetes实践全接触（第4版）
+  - [ ] Go语言编程入门与实战技巧
+  - [ ] 深入浅出Prometheus：原理、应用、源码与拓展详解
